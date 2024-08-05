@@ -1,0 +1,102 @@
+Part_Time_Job_title,Location,Street,City,State,Country,,,,Number_of_people,,Keywords
+Retail Associate,Mangalore,123 Main Street, Mangalore, KA, India,, Retail, Customer Service,20,,  Retail  Customer Service
+Tutor,Bangalore,456 Oak Avenue, Bangalore, KA, India,Education, Teaching, Tutoring,15,,Education  Teaching  Tutoring
+Content Writer,Mysore,789 Maple Road, Mysore, KA, India,Writing, Content Creation, SEO,12,,Writing  Content Creation  SEO
+Social Media Intern,Udupi,101 Pine Street, Udupi, KA, India,Social Media, Marketing, Internship,10,,Social Media  Marketing  Internship
+Delivery Driver,Mandya,234 Elm Street, Mandya, KA, India,Delivery, Driving, Logistics,18,,Delivery  Driving  Logistics
+Event Staff,Kundapura,567 Cedar Avenue, Kundapura, KA, India,Event Management, Hospitality, Coordination,14,,Event Management  Hospitality  Coordination
+Fitness Instructor,Mangalore,890 Birch Lane, Mangalore, KA, India,Fitness, Training, Coaching,10,,Fitness  Training  Coaching
+Graphic Designer,Bangalore,111 Oak Street, Bangalore, KA, India,Graphic Design, Adobe Suite, Illustration,8,,Graphic Design  Adobe Suite  Illustration
+Freelance Writer,Mysore,222 Maple Avenue, Mysore, KA, India,Freelance Writing, Content Creation,7,,,Freelance Writing  Content Creation 7
+Data Entry Operator,Udupi,333 Pine Lane, Udupi, KA, India,Data Entry, Typing, Computer Skills,15,,Data Entry  Typing  Computer Skills
+Customer Service Representative,Mandya,444 Elm Court, Mandya, KA, India,Customer Support, Communication, Problem-Solving,12,,Customer Support  Communication  Problem-Solving
+Babysitter,Kundapura,555 Cedar Road, Kundapura, KA, India,Childcare, Babysitting, Child Development,9,,Childcare  Babysitting  Child Development
+Virtual Assistant,Mangalore,666 Birch Street, Mangalore, KA, India,Administrative Support, Virtual Assistance,11,,,Administrative Support  Virtual Assistance 11
+Sales Promoter,Bangalore,777 Oak Lane, Bangalore, KA, India,Sales, Promotion, Marketing,8,,Sales  Promotion  Marketing
+Language Tutor,Mysore,888 Maple Court, Mysore, KA, India,Language Learning, Teaching, Communication,10,,Language Learning  Teaching  Communication
+Dog Walker,Udupi,999 Pine Avenue, Udupi, KA, India,Pet Care, Dog Walking,5,,,Pet Care  Dog Walking 5
+Gardener,Mandya,1010 Elm Road, Mandya, KA, India,Gardening, Landscaping, Horticulture,6,,Gardening  Landscaping  Horticulture
+Receptionist,Kundapura,1111 Cedar Lane, Kundapura, KA, India,Front Desk, Administration, Organization,8,,Front Desk  Administration  Organization
+Freelance Photographer,Mangalore,1212 Birch Court, Mangalore, KA, India,Photography, Freelancing, Creativity,7,,Photography  Freelancing  Creativity
+Personal Trainer,Bangalore,1313 Oak Road, Bangalore, KA, India,Personal Training, Fitness, Exercise,9,,Personal Training  Fitness  Exercise
+Event Coordinator,Mysore,1414 Maple Lane, Mysore, KA, India,Event Planning, Coordination,10,,,Event Planning  Coordination 10
+Bartender,Udupi,1515 Pine Court, Udupi, KA, India,Bartending, Mixology, Hospitality,7,,Bartending  Mixology  Hospitality
+Housekeeper,Mandya,1616 Elm Avenue, Mandya, KA, India,Housekeeping, Cleaning, Organization,12,,Housekeeping  Cleaning  Organization
+Web Developer,Kundapura,1717 Cedar Road, Kundapura, KA, India,Web Development, Programming, Coding,10,,Web Development  Programming  Coding
+Music Instructor,Mangalore,1818 Birch Lane, Mangalore, KA, India,Music, Teaching, Instrument,6,,Music  Teaching  Instrument
+Personal Shopper,Bangalore,1919 Oak Street, Bangalore, KA, India,Shopping, Personal Assistance, Fashion,8,,Shopping  Personal Assistance  Fashion
+Yoga Instructor,Mysore,2020 Maple Avenue, Mysore, KA, India,Yoga, Teaching, Wellness,7,,Yoga  Teaching  Wellness
+Freelance Illustrator,Udupi,2121 Pine Court, Udupi, KA, India,Illustration, Freelancing, Art,5,,Illustration  Freelancing  Art
+Dog Trainer,Mandya,2222 Elm Lane, Mandya, KA, India,Dog Training, Animal Behavior,6,,,Dog Training  Animal Behavior 6
+Virtual Tutor,Kundapura,2323 Cedar Road, Kundapura, KA, India,Online Tutoring, Remote Education,9,,,Online Tutoring  Remote Education 9
+Tour Guide,Mangalore,2424 Birch Lane, Mangalore, KA, India,Tourism, Guiding, Travel,6,,Tourism  Guiding  Travel
+Ride Share Driver,Bangalore,2525 Oak Avenue, Bangalore, KA, India,Driving, Transportation, Customer Service,10,,Driving  Transportation  Customer Service
+Freelance Videographer,Mysore,2626 Maple Court, Mysore, KA, India,Videography, Freelancing, Cinematography,7,,Videography  Freelancing  Cinematography
+Personal Chef,Udupi,2727 Pine Street, Udupi, KA, India,Cooking, Culinary, Personal Cooking,5,,Cooking  Culinary  Personal Cooking
+Social Media Manager,Mandya,2828 Elm Lane, Mandya, KA, India,Social Media Marketing, Management,8,,,Social Media Marketing  Management 8
+Fitness Coach,Kundapura,2929 Cedar Court, Kundapura, KA, India,Fitness Coaching, Training, Health,6,,Fitness Coaching  Training  Health
+Babysitting Assistant,Mangalore,3030 Birch Road, Mangalore, KA, India,Childcare, Babysitting, Assistant,7,,Childcare  Babysitting  Assistant
+Freelance Translator,Bangalore,3131 Oak Lane, Bangalore, KA, India,Translation, Freelancing, Language,6,,Translation  Freelancing  Language
+Retail Merchandiser,Mysore,3232 Maple Court, Mysore, KA, India,Retail, Merchandising, Sales,8,,Retail  Merchandising  Sales
+Freelance Copywriter,Udupi,3333 Pine Street, Udupi, KA, India,Copywriting, Freelancing, Content,7,,Copywriting  Freelancing  Content
+Event Waitstaff,Mandya,3434 Elm Avenue, Mandya, KA, India,Event Service, Waitstaff, Hospitality,9,,Event Service  Waitstaff  Hospitality
+Computer Technician,Kundapura,3535 Cedar Road, Kundapura, KA, India,Computer Repair, Troubleshooting, IT,7,,Computer Repair  Troubleshooting  IT
+Art Teacher,Mangalore,3636 Birch Lane, Mangalore, KA, India,Art, Teaching, Creativity,6,,Art  Teaching  Creativity
+Dog Groomer,Bangalore,3737 Oak Street, Bangalore, KA, India,Pet Care, Grooming, Animal Care,5,,Pet Care  Grooming  Animal Care
+Home Organizer,Mysore,3838 Maple Avenue, Mysore, KA, India,Organization, Home Management,6,,,Organization  Home Management 6
+Brand Ambassador,Udupi,3939 Pine Court, Udupi, KA, India,Brand Promotion, Marketing, Sales,8,,Brand Promotion  Marketing  Sales
+Pet Sitter,Mandya,4040 Elm Road, Mandya, KA, India,Pet Care, Sitting, Animal Care,7,,Pet Care  Sitting  Animal Care
+Handyman,Kundapura,4141 Cedar Lane, Kundapura, KA, India,Repair, Maintenance, Handywork,9,,Repair  Maintenance  Handywork
+Dance Instructor,Mangalore,4242 Birch Street, Mangalore, KA, India,Dance, Teaching, Choreography,6,,Dance  Teaching  Choreography
+Voiceover Artist,Bangalore,4343 Oak Road, Bangalore, KA, India,Voiceover, Freelancing, Art,7,,Voiceover  Freelancing  Art
+Content Moderator,Mysore,4444 Maple Lane, Mysore, KA, India,Content Moderation, Online Safety,8,,,Content Moderation  Online Safety 8
+Market Researcher,Udupi,4545 Pine Avenue, Udupi, KA, India,Market Research, Analysis, Data,7,,Market Research  Analysis  Data
+Social Media Moderator,Mandya,4646 Elm Court, Mandya, KA, India,Social Media, Community Management,6,,,Social Media  Community Management 6
+Car Detailer,Kundapura,4747 Cedar Road, Kundapura, KA, India,Car Cleaning, Detailing, Auto,5,,Car Cleaning  Detailing  Auto
+Event Security,Mangalore,4848 Birch Lane, Mangalore, KA, India,Security, Event Management, Safety,8,,Security  Event Management  Safety
+Mystery Shopper,Bangalore,4949 Oak Avenue, Bangalore, KA, India,Mystery Shopping, Retail, Evaluation,7,,Mystery Shopping  Retail  Evaluation
+Online Moderator,Mysore,5050 Maple Street, Mysore, KA, India,Online Moderation, Community Management,6,,,Online Moderation  Community Management 6
+Resume Writer,Udupi,5151 Pine Lane, Udupi, KA, India,Resume Writing, Freelancing, Career,5,,Resume Writing  Freelancing  Career
+Game Tester,Mandya,5252 Elm Road, Mandya, KA, India,Game Testing, QA, Gaming,8,,Game Testing  QA  Gaming
+Fashion Stylist,Kundapura,5353 Cedar Lane, Kundapura, KA, India,Fashion, Styling, Apparel,7,,Fashion  Styling  Apparel
+Survey Taker,Mangalore,5454 Birch Road, Mangalore, KA, India,Survey, Data Collection, Opinion,6,,Survey  Data Collection  Opinion
+Product Demonstrator,Bangalore,5555 Oak Lane, Bangalore, KA, India,Product Demonstration, Sales, Marketing,5,,Product Demonstration  Sales  Marketing
+Pet Photographer,Mysore,5656 Maple Court, Mysore, KA, India,Pet Photography, Animals, Art,7,,Pet Photography  Animals  Art
+Mystery Diner,Udupi,5757 Pine Street, Udupi, KA, India,Mystery Dining, Restaurant, Evaluation,6,,Mystery Dining  Restaurant  Evaluation
+Tourist Photographer,Mandya,5858 Elm Avenue, Mandya, KA, India,Photography, Tourism, Travel,5,,Photography  Tourism  Travel
+Brand Promoter,Kundapura,5959 Cedar Lane, Kundapura, KA, India,Brand Promotion, Sales, Marketing,7,,Brand Promotion  Sales  Marketing
+Bookkeeper,Mangalore,6060 Birch Street, Mangalore, KA, India,Bookkeeping, Accounting, Finance,8,,Bookkeeping  Accounting  Finance
+Social Media Manager,Bangalore,6161 Oak Road, Bangalore, KA, India,Social Media Marketing, Management,8,,,Social Media Marketing  Management 8
+Event Coordinator,Mysore,6262 Maple Court, Mysore, KA, India,Event Planning, Coordination,10,,,Event Planning  Coordination 10
+Freelance Writer,Udupi,6363 Pine Court, Udupi, KA, India,Freelance Writing, Content Creation,7,,,Freelance Writing  Content Creation 7
+Data Entry Operator,Mandya,6464 Elm Road, Mandya, KA, India,Data Entry, Typing, Computer Skills,15,,Data Entry  Typing  Computer Skills
+Babysitting Assistant,Kundapura,6565 Cedar Lane, Kundapura, KA, India,Childcare, Babysitting, Assistant,7,,Childcare  Babysitting  Assistant
+Virtual Tutor,Mangalore,6666 Birch Avenue, Mangalore, KA, India,Online Tutoring, Remote Education,9,,,Online Tutoring  Remote Education 9
+Ride Share Driver,Bangalore,6767 Oak Street, Bangalore, KA, India,Driving, Transportation, Customer Service,10,,Driving  Transportation  Customer Service
+Freelance Translator,Mysore,6868 Maple Road, Mysore, KA, India,Translation, Freelancing, Language,6,,Translation  Freelancing  Language
+Freelance Copywriter,Udupi,6969 Pine Avenue, Udupi, KA, India,Copywriting, Freelancing, Content,7,,Copywriting  Freelancing  Content
+Computer Technician,Mandya,7070 Elm Court, Mandya, KA, India,Computer Repair, Troubleshooting, IT,7,,Computer Repair  Troubleshooting  IT
+Social Media Moderator,Kundapura,7171 Cedar Road, Kundapura, KA, India,Social Media, Community Management,6,,,Social Media  Community Management 6
+Fashion Stylist,Mangalore,7272 Birch Lane, Mangalore, KA, India,Fashion, Styling, Apparel,7,,Fashion  Styling  Apparel
+Product Demonstrator,Bangalore,7373 Oak Avenue, Bangalore, KA, India,Product Demonstration, Sales, Marketing,5,,Product Demonstration  Sales  Marketing
+Pet Photographer,Mysore,7474 Maple Street, Mysore, KA, India,Pet Photography, Animals, Art,7,,Pet Photography  Animals  Art
+Mystery Diner,Udupi,7575 Pine Lane, Udupi, KA, India,Mystery Dining, Restaurant, Evaluation,6,,Mystery Dining  Restaurant  Evaluation
+Tourist Photographer,Mandya,7676 Elm Road, Mandya, KA, India,Photography, Tourism, Travel,5,,Photography  Tourism  Travel
+Brand Promoter,Kundapura,7777 Cedar Lane, Kundapura, KA, India,Brand Promotion, Sales, Marketing,7,,Brand Promotion  Sales  Marketing
+Bookkeeper,Mangalore,7878 Birch Avenue, Mangalore, KA, India,Bookkeeping, Accounting, Finance,8,,Bookkeeping  Accounting  Finance
+Social Media Manager,Bangalore,7979 Oak Street, Bangalore, KA, India,Social Media Marketing, Management,8,,,Social Media Marketing  Management 8
+Event Coordinator,Mysore,8080 Maple Court, Mysore, KA, India,Event Planning, Coordination,10,,,Event Planning  Coordination 10
+Freelance Writer,Udupi,8181 Pine Road, Udupi, KA, India,Freelance Writing, Content Creation,7,,,Freelance Writing  Content Creation 7
+Data Entry Operator,Mandya,8282 Elm Avenue, Mandya, KA, India,Data Entry, Typing, Computer Skills,15,,Data Entry  Typing  Computer Skills
+Babysitting Assistant,Kundapura,8383 Cedar Lane, Kundapura, KA, India,Childcare, Babysitting, Assistant,7,,Childcare  Babysitting  Assistant
+Virtual Tutor,Mangalore,8484 Birch Street, Mangalore, KA, India,Online Tutoring, Remote Education,9,,,Online Tutoring  Remote Education 9
+Ride Share Driver,Bangalore,8585 Oak Road, Bangalore, KA, India,Driving, Transportation, Customer Service,10,,Driving  Transportation  Customer Service
+Freelance Translator,Mysore,8686 Maple Avenue, Mysore, KA, India,Translation, Freelancing, Language,6,,Translation  Freelancing  Language
+Freelance Copywriter,Udupi,8787 Pine Lane, Udupi, KA, India,Copywriting, Freelancing, Content,7,,Copywriting  Freelancing  Content
+Computer Technician,Mandya,8888 Elm Road, Mandya, KA, India,Computer Repair, Troubleshooting, IT,7,,Computer Repair  Troubleshooting  IT
+Social Media Moderator,Kundapura,8989 Cedar Lane, Kundapura, KA, India,Social Media, Community Management,6,,,Social Media  Community Management 6
+Fashion Stylist,Mangalore,9090 Birch Avenue, Mangalore, KA, India,Fashion, Styling, Apparel,7,,Fashion  Styling  Apparel
+Product Demonstrator,Bangalore,9191 Oak Street, Bangalore, KA, India,Product Demonstration, Sales, Marketing,5,,Product Demonstration  Sales  Marketing
+Pet Photographer,Mysore,9292 Maple Road, Mysore, KA, India,Pet Photography, Animals, Art,7,,Pet Photography  Animals  Art
+Mystery Diner,Udupi,9393 Pine Lane, Udupi, KA, India,Mystery Dining, Restaurant, Evaluation,6,,Mystery Dining  Restaurant  Evaluation
+Tourist Photographer,Mandya,9494 Elm Road, Mandya, KA, India,Photography, Tourism, Travel,5,,Photography  Tourism  Travel
